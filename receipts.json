@@ -9,12 +9,12 @@
         "measureUnit": "г"
       },
       {
-        "name": "Куриное яйцо",
+        "name": "Куриное яйцо ",
         "count": 2 ,
         "measureUnit": "штуки"
       },
       {
-        "name": "Пшеничная мука",
+        "name": "Пшеничная мука ",
         "count": 6 ,
         "measureUnit": "столовых ложек"
       },
@@ -43,32 +43,32 @@
         "measureUnit": "г"
       },
       {
-        "name": "Лимон",
+        "name": "Лимон ",
         "count": 1,
         "measureUnit": "штука"
       },
       {
-        "name": "Чеснок",
+        "name": "Чеснок ",
         "count": 2,
         "measureUnit": "зубчика"
       },
       {
-        "name": "Оливковое масло",
+        "name": "Оливковое масло ",
         "count": 50,
         "measureUnit": "мл"
       },
       {
-        "name": "Рукола",
+        "name": "Рукола ",
         "count": 100,
         "measureUnit": "г"
       },
       {
-        "name": "Творожный сыр",
+        "name": "Творожный сыр ",
         "count": 200,
         "measureUnit": "г"
       },
       {
-        "name": "Красный лук",
+        "name": "Красный лук ",
         "count": 50,
         "measureUnit": "г"
       },
@@ -89,22 +89,22 @@
     "cookingTime": "30 минут",
     "ingredients": [
       {
-        "name": "Красная чечевица",
+        "name": "Красная чечевица ",
         "count": 150,
         "measureUnit": "г"
       },
       {
-        "name": "Репчатый лук",
+        "name": "Репчатый лук ",
         "count": 1,
         "measureUnit": "головка"
       },
       {
-        "name": "Морковь",
+        "name": "Морковь ",
         "count": 1,
         "measureUnit": "штука"
       },
       {
-        "name": "Подсолнечное масло",
+        "name": "Подсолнечное масло ",
         "count": 30,
         "measureUnit": "мл"
       },
@@ -114,12 +114,12 @@
         "measureUnit": "г"
       },
       {
-        "name": "Пшеничная мука",
+        "name": "Пшеничная мука ",
         "count": 30,
         "measureUnit": "г"
       },
       {
-        "name": "Сливки 33%",
+        "name": "Сливки 33% ",
         "count": "",
         "measureUnit": ""
       },
@@ -153,7 +153,7 @@
       {
         "name": "Помидоры ",
         "count": 3,
-        "measureUnit": "штуки"
+        "measureUnit": "штука"
       },
       {
         "name": "Королевские креветки ",
@@ -168,7 +168,7 @@
       {
         "name": "Огурцы ",
         "count": 2,
-        "measureUnit": "штуки"
+        "measureUnit": "штука"
       },
       {
         "name": "Специи ",
@@ -206,7 +206,7 @@
       {
         "name": "Куриное яйцо ",
         "count": 3,
-        "measureUnit": "штуки"
+        "measureUnit": "штука"
       },
       {
         "name": "Пшеничная мука ",
